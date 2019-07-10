@@ -1,0 +1,32 @@
+body{
+  background-color:#ff9c91;
+}
+
+h1{
+  color: Blue;
+  font-family: Arial;
+  font-size: 40 px;
+  }
+h2 {
+  color: #540e33:
+  font-family: cursive;
+  font-size: 24px;
+  }
+p {
+  color: #540e33;
+  }
+a {
+  color: #c10000;
+}
+
+/* <link href="styles.css" rel="stylesheet"
+rel="stylesheet"
+href="myStyles.css" */
+
+
+
+  /* .container {
+      max-width: 960px;
+      margin: 30px auto;
+      padding: 20px;
+  } */
